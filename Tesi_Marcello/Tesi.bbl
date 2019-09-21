@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{antonopoulos2017mastering}
+Andreas~M Antonopoulos.
+\newblock {\em Mastering Bitcoin: Programming the open blockchain}.
+\newblock " O'Reilly Media, Inc.", 2017.
+
+\bibitem{delgado2018txprobe}
+Sergi Delgado-Segura, Surya Bakshi, Cristina P{\'e}rez-Sol{\`a}, James Litton,
+  Andrew Pachulski, Andrew Miller, and Bobby Bhattacharjee.
+\newblock Txprobe: Discovering bitcoin's network topology using orphan
+  transactions.
+\newblock {\em arXiv preprint arXiv:1812.00942}, 2018.
+
+\bibitem{miller2015discovering}
+Andrew Miller, James Litton, Andrew Pachulski, Neal Gupta, Dave Levin, Neil
+  Spring, and Bobby Bhattacharjee.
+\newblock Discovering bitcoin's public topology and influential nodes.
+\newblock {\em et al}, 2015.
+
+\bibitem{nakamoto2008bitcoin}
+Satoshi Nakamoto et~al.
+\newblock Bitcoin: A peer-to-peer electronic cash system.
+\newblock 2008.
+
+\bibitem{neudecker2016timing}
+Till Neudecker, Philipp Andelfinger, and Hannes Hartenstein.
+\newblock Timing analysis for inferring the topology of the bitcoin
+  peer-to-peer network.
+\newblock In {\em 2016 Intl IEEE Conferences on Ubiquitous Intelligence \&
+  Computing, Advanced and Trusted Computing, Scalable Computing and
+  Communications, Cloud and Big Data Computing, Internet of People, and Smart
+  World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)}, pages 358--367.
+  IEEE, 2016.
+
+\bibitem{tschorsch2016bitcoin}
+Florian Tschorsch and Bj{\"o}rn Scheuermann.
+\newblock Bitcoin and beyond: A technical survey on decentralized digital
+  currencies.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 18(3):2084--2123,
+  2016.
+
+\end{thebibliography}

@@ -1,0 +1,27 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces QR code per la richiesta di pagamento in BTC}}{13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Crittografia su curva ellittica: visualizzazione della curva ellittica con p=17, caso continuo}}{17}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Crittografia su curva ellittica: visualizzazione della curva ellittica con p=17, caso discreto}}{17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Conversione da una chiave pubblica ad un indirizzo Bitcoin}}{19}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Un nodo della rete Bitcoin con tutte e quattro le funzionalit\`a: \textit {wallet, miner, full blockchain database e network routing}}}{25}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Handshake tra due peer della rete Bitcoin}}{27}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Propagazione di indirizzi Bitcoin}}{28}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Struttura dei blocchi }}{32}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces calcolo dei nodi in un merkle root}}{34}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Merkle path usato per provare l'inclusione dell' elemento K}}{35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces https://bitcoincore.org/en/doc/0.16.0/rpc/network/getpeerinfo/}}{44}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Esempio lancio del programma raccolta\_dati.py}}{45}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Esempio dati raccolti.py}}{46}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Esempio lancio del programma analisi\_dati.py}}{46}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Date di inizio e fine monitorizzazionr}}{46}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Percentuale dei \textit {peer} invariati per ogni lancio}}{47}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Statistiche sulle connessioni dei \textit {peer}}}{48}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Grafico a barre}}{48}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Statistiche sulla percentuale di connessione di ogni peer}}{49}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Geolocalizzazione dei \textit {peer}}}{49}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Intervalli di connessione per ogni \textit {peer}}}{50}
+\addvspace {10\p@ }
