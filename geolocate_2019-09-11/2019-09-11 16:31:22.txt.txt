@@ -1,0 +1,1182 @@
+ip:47.244.129.27
+continent: Asia
+country: Hong Kong SAR China
+city: Tsuen Wan
+
+
+ip:47.52.77.214
+continent: Asia
+country: Hong Kong SAR China
+city: Tsuen Wan
+
+
+ip:128.199.89.12
+continent: Asia
+country: Singapore
+city: Singapore
+
+
+ip:34.234.104.4
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:83.164.131.243
+continent: Europe
+country: Austria
+city: Linz
+
+
+ip:188.166.69.73
+continent: Europe
+country: Netherlands
+city: Diemen
+
+
+ip:108.175.2.240
+continent: North America
+country: United States
+city: Lenexa
+
+
+ip:188.65.213.21
+continent: Asia
+country: Russia
+city: Moscow
+
+
+ip:94.237.44.67
+continent: Europe
+country: Netherlands
+city: Diemen
+
+
+ip:88.98.225.214
+continent: Europe
+country: United Kingdom
+city: Hounslow
+
+
+ip:129.13.189.200
+continent: Europe
+country: Germany
+city: Karlsruhe
+
+
+ip:13.53.41.207
+continent: Europe
+country: Sweden
+city: Stockholm
+
+
+ip:195.37.209.62
+continent: Europe
+country: Germany
+city: Berlin
+
+
+ip:129.13.189.202
+continent: Europe
+country: Germany
+city: Karlsruhe
+
+
+ip:18.237.220.99
+continent: North America
+country: United States
+city: Boardman
+
+
+ip:176.9.86.146
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:116.125.124.226
+continent: Asia
+country: South Korea
+city: Seoul
+
+
+ip:88.99.167.186
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:199.195.250.77
+continent: North America
+country: United States
+city: Cheyenne
+
+
+ip:162.218.65.16
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.41
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.49
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.2
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:89.40.3.51
+continent: Europe
+country: Lithuania
+city: Vilnius
+
+
+ip:134.209.254.216
+continent: North America
+country: United States
+city: Mansfield
+
+
+ip:182.150.24.62
+continent: Asia
+country: China
+city: Chengdu
+
+
+ip:18.191.238.133
+continent: North America
+country: United States
+city: Columbus
+
+
+ip:134.175.33.214
+continent: Asia
+country: China
+city: Beijing
+
+
+ip:198.199.81.65
+continent: North America
+country: United States
+city: Manhattan
+
+
+ip:46.101.177.93
+continent: Europe
+country: Germany
+city: Frankfurt am Main
+
+
+ip:116.202.100.89
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:47.244.110.27
+continent: Asia
+country: Hong Kong SAR China
+city: Tsuen Wan
+
+
+ip:116.203.191.63
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:18.138.255.8
+continent: Asia
+country: Singapore
+city: Singapore
+
+
+ip:3.15.5.142
+continent: North America
+country: United States
+city: Columbus
+
+
+ip:88.99.167.175
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:198.98.59.161
+continent: North America
+country: United States
+city: Cheyenne
+
+
+ip:131.114.2.151
+continent: Europe
+country: Italy
+city: Pisa
+
+
+ip:75.72.61.139
+continent: North America
+country: United States
+city: Shakopee
+
+
+ip:23.92.36.12
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:46.101.254.119
+continent: Europe
+country: Germany
+city: Frankfurt am Main
+
+
+ip:110.167.89.198
+continent: Asia
+country: China
+city: Xining
+
+
+ip:132.68.60.222
+continent: Asia
+country: Israel
+city: Haifa
+
+
+ip:162.218.65.30
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.116
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.183
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:206.81.8.139
+continent: North America
+country: United States
+city: Manhattan
+
+
+ip:59.110.63.71
+continent: Asia
+country: China
+city: Hangzhou
+
+
+ip:162.218.65.168
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.97
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.75
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.72
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.114
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.201
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.36
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.62
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.170
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.31
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.13
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.42
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.13
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.27
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.65
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.148
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.232
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.132
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.17
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.19
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.24
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.137
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.45
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.63
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.235
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.22
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.54
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.224
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.234
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.25
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.191
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.251
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.78
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.34
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.208
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.33
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.66
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.52
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.60
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.252
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.167
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.150
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.136
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.173
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.23
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.68
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.55
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.58
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.215
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.206
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.120
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.112
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.246
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.239
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.174
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.212
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.3
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.61
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.94
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.24
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.16
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.82
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.176
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.128
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.26
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.141
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.92
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.29
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.152
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.89
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.244
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.159
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.129
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.51
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.110
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.186
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.36
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:23.92.36.55
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.194
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.8
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.104
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.164
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.210
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.219
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.122
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.240
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.195
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.218
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.243
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.91
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.53
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.213
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.205
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.145
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.31
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.241
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.117
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.12
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.189
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.6
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.181
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.85
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.28
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.223
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.100
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.253
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.161
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.124
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.105
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.84
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.187
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.83
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.226
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.130
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:23.92.36.47
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:162.218.65.231
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.125
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.197
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.143
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:167.71.167.243
+continent: North America
+country: United States
+city: Manhattan
+
+
+ip:162.218.65.61
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.18
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.54
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.144
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:162.218.65.192
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:199.187.211.105
+continent: North America
+country: United States
+city: Seattle
+
+
+ip:163.44.155.206
+continent: Asia
+country: Singapore
+city: Singapore
+
+
+ip:54.234.190.149
+continent: North America
+country: United States
+city: Ashburn
+
+
+ip:35.187.202.137
+continent: North America
+country: United States
+city: Mountain View
+
+
+ip:46.101.186.133
+continent: Europe
+country: Germany
+city: Frankfurt am Main
+
+
+ip:146.185.139.235
+continent: Europe
+country: Netherlands
+city: Diemen
+
+
+ip:35.199.40.106
+continent: North America
+country: United States
+city: Mountain View
+
+
+ip:88.88.40.23
+continent: Europe
+country: Norway
+city: Bergen
+
+
+ip:188.165.205.78
+continent: Europe
+country: France
+city: Roubaix
+
+
+ip:18.191.192.149
+continent: North America
+country: United States
+city: Columbus
+
+
+ip:145.20.145.2
+continent: Europe
+country: Netherlands
+city: Hoensbroek
+
+
+ip:159.69.41.62
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:162.218.65.149
+continent: North America
+country: United States
+city: Tigard
+
+
+ip:83.167.1.125
+continent: Asia
+country: Russia
+city: Yekaterinburg
+
+
+ip:185.198.58.47
+continent: Europe
+country: Romania
+city: Bucharest
+
+
+ip:222.173.82.42
+continent: Asia
+country: China
+city: Qingdao
+
+
+ip:49.14.48.86
+continent: Asia
+country: India
+city: Khospuri
+
+
+ip:116.202.97.138
+continent: Europe
+country: Germany
+city: Gunzenhausen
+
+
+ip:134.209.254.206
+continent: North America
+country: United States
+city: Mansfield
+
+
+ip:159.89.156.60
+continent: North America
+country: United States
+city: San Francisco
+
+
+ip:104.199.192.149
+continent: North America
+country: United States
+city: Mountain View
+
+
+ip:52.82.94.59
+continent: Asia
+country: China
+city: Yinchuan
+
+
+ip:176.212.168.10
+continent: Asia
+country: Russia
+city: Ryazan’
+
+
++----------------+---------------+-----------+----------------+-----------+-----------+
+| continente max |   stato max   | citta max | continente min | stato min | citta min |
++----------------+---------------+-----------+----------------+-----------+-----------+
+| North America  | United States |   Tigard  |      Asia      |  Austria  |    Linz   |
+|      153       |      153      |    109    |       18       |     1     |     1     |
++----------------+---------------+-----------+----------------+-----------+-----------+
